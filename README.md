@@ -88,6 +88,9 @@ Bug reports contain:
 ### Sample Defect
 
 **BUG_001 – Incorrect Early-Out Time Calculation**
+![Uploading WhatsApp Image 2026-10-08 at 15.44.06 (1).jpeg…]()
+
+
 
 **Module:** Attendance
 
